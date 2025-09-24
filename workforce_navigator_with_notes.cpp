@@ -9,14 +9,6 @@ Description: program must present a menu to the user with the following options:
 5.	Exit Program
 */
 
-
-/*
- Project Title: Interactive Math & String Utility Program
- Topic: Control Structures II – Loops (while, for, do-while, Nested Loops)
- Environment: GitHub CodeSpaces
- Author: Eddie O'Con
-*/
-
 #include <iostream>
 #include <string>
 using namespace std;
