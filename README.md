@@ -1,13 +1,10 @@
-========= Interactive Utility Program =========
+-------Interactive Utility Program---------
 
 Factorial Calculator
-
 Number Pyramid
+Sum of even or odd numbers
+reverse a string
+Exit 
 
-Sum of Even or Odd Numbers
-
-Reverse a String
-
-Exit
-==============================================
+-------------------------------------------
 Enter your choice:
